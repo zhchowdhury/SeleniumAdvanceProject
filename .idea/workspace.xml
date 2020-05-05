@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Create OpenBrowser Session" />
+    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Create OpenBrowser Session">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumAdvanceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumAdvanceProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageController/loginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageController/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageController/loginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +59,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="OpenBrowser" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,7 +84,25 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.LoginTest.verifySignInButton">
+    <configuration name="LoginTest.verifySignInButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAdvanceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTest" />
+      <option name="METHOD_NAME" value="verifySignInButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ScriptBase.beforeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAdvanceProject" />
       <extension name="coverage">
@@ -94,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest.verifySignInButton" />
         <item itemvalue="TestNG.ScriptBase.beforeTest" />
       </list>
     </recent_temporary>
@@ -123,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588384554677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create OpenBrowser Session">
+      <created>1588385097372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588385097372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +173,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat Page of object Model" />
@@ -143,33 +181,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="Create OpenBrowser Session" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588384902965">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588644655664">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588384902964" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588384902963">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588644655664" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588644655662">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588384902963" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588384902962">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588644655662" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588644655660">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588384902962" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588384902964">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588644655660" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588644655663">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588384902964" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1588383825737">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588644655663" />
+    <state x="608" y="324" key="MultipleFileMergeDialog" timestamp="1588385133313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588383825737" />
+    <state x="608" y="324" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1588385133313" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1588644414731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588644414731" />
     <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1588384559902">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="177" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1588384559902" />
-    <state x="353" y="245" key="git4idea.merge.GitPullDialog" timestamp="1588297366657">
+    <state x="353" y="245" key="git4idea.merge.GitPullDialog" timestamp="1588385165240">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="353" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1588297366657" />
+    <state x="353" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1588385165240" />
   </component>
 </project>
