@@ -9,10 +9,11 @@ public WebDriver driver;
 
 
     public void beforeTest(){
-
+                                                //  ./drivers/chromedriver
         System.setProperty("webdriver.chrome.driver","./drivers/chromedriver");
         driver = new ChromeDriver();
         driver.get("http://automationpractice.com");
+
     }
 
 }
