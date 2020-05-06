@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Create OpenBrowser Session">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SeleniumAdvanceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumAdvanceProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="@FageFactory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageController/loginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/PageController/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageController/loginController.class" afterDir="false" />
@@ -77,14 +74,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.33908045" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.verifySignInButton">
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAdvanceProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="login" />
+      <option name="MAIN_CLASS_NAME" value="login.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest.verifySignInButton" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAdvanceProject" />
       <extension name="coverage">
@@ -123,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTest.verifySignInButton" />
         <item itemvalue="TestNG.ScriptBase.beforeTest" />
       </list>
@@ -178,33 +193,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat Page of object Model" />
     <MESSAGE value="Create OpenBrowser Session" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create OpenBrowser Session" />
+    <MESSAGE value="@FageFactory" />
+    <option name="LAST_COMMIT_MESSAGE" value="@FageFactory" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588644655664">
+    <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588658908356">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588644655664" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588644655662">
+    <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1588658908356" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588730799930">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588644655662" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588644655660">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588730799930" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588730799928">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588644655660" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588644655663">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588730799928" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588730799927">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588644655663" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588730799927" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588730799929">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588730799929" />
     <state x="608" y="324" key="MultipleFileMergeDialog" timestamp="1588385133313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="608" y="324" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1588385133313" />
-    <state x="208" y="31" key="SettingsEditor" timestamp="1588644414731">
+    <state x="208" y="31" key="SettingsEditor" timestamp="1588728947971">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588644414731" />
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588728947971" />
     <state x="320" y="177" key="Vcs.Push.Dialog.v2" timestamp="1588384559902">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

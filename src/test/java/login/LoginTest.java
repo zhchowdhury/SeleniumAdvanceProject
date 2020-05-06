@@ -2,27 +2,32 @@ package login;
 
 import PageController.LoginController;
 import base.ScriptBase;
+import javafx.scene.layout.Priority;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class LoginTest extends ScriptBase {
 
-    LoginController login;
+    LoginController  login;  // Init LoginController Class Object
 
-    @BeforeTest
-    public void Init(){
-        beforeTest();
+    @BeforeTest              // before Run the Test Init() all object from ScriptBase Class
+    public void Init() {
+
+        beforeTest();        // Calling from ScriptBase Clase @ beforeTest() all functionality
     }
 
-    @Test
-    public void verifySignInButton(){
+    @Test (priority = 1)
+    public void verifySignInButton() {
         login = new LoginController(driver);
         login.signInTab();
 
 
     }
 
+    @Test (priority = 2)
+    public void verifyInvalidLogin() throws InterruptedException {
+        login = new LoginController(driver);
+        login.invalidLogin();
 
-
-
+    }
 }
