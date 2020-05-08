@@ -22,11 +22,7 @@
     <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="@FageFactory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageController/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageController/loginController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588385097372</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add a invalid ligin test">
+      <created>1588731426108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588731426108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,22 +204,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1588658908356" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588730799930">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588898999694">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588730799930" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588730799928">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588898999694" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588898999693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588730799928" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588730799927">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588898999693" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588898999692">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588730799927" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588730799929">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588898999692" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588898999693">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588730799929" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588898999693" />
     <state x="608" y="324" key="MultipleFileMergeDialog" timestamp="1588385133313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

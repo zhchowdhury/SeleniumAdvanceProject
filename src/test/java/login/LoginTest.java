@@ -13,7 +13,7 @@ public class LoginTest extends ScriptBase {
     @BeforeTest              // before Run the Test Init() all object from ScriptBase Class
     public void Init() {
 
-        beforeTest();        // Calling from ScriptBase Clase @ beforeTest() all functionality
+        beforeTest();        // Calling from ScriptBase Class @ beforeTest() all functionality
     }
 
     @Test (priority = 1)
@@ -27,7 +27,9 @@ public class LoginTest extends ScriptBase {
     @Test (priority = 2)
     public void verifyInvalidLogin() throws InterruptedException {
         login = new LoginController(driver);
-        login.invalidLogin();
+        login.invalidLogin(driver,"There is 1 error");
 
     }
+
+
 }
