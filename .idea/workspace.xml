@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Add parametarize Xpath" />
+    <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Add parametarize Xpath">
+      <change afterPath="$PROJECT_DIR$/Regression.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageController/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageController/loginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +82,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest">
+  <component name="RunManager" selected="TestNG./Users/zahriul/Documents/SeleniumAdvanceProject/Regression.xml">
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumAdvanceProject" />
       <extension name="coverage">
@@ -127,11 +136,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/zahriul/Documents/SeleniumAdvanceProject/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAdvanceProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.LoginTest.verifySignInButton" />
+        <item itemvalue="TestNG./Users/zahriul/Documents/SeleniumAdvanceProject/Regression.xml" />
         <item itemvalue="TestNG.ScriptBase.beforeTest" />
+        <item itemvalue="TestNG.LoginTest.verifySignInButton" />
+        <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -204,26 +225,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add parametarize Xpath" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="433" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589245124524">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1589245124524" />
     <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588658908356">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1588658908356" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1588900711757">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589247703406">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588900711757" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1588900711755">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589247703406" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589247703404">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588900711755" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1588900711754">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589247703404" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589247703403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588900711754" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1588900711756">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589247703403" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589247703405">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588900711756" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589247703405" />
     <state x="608" y="324" key="MultipleFileMergeDialog" timestamp="1588385133313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

@@ -49,6 +49,7 @@ public class LoginController {
 
     public void errorMessage(WebDriver driver,String message) {
 
+                                         //Parametarize and conct
         driver.findElement(By.xpath("//p[contains(text(),'"+message+"')]")).isDisplayed();
     }
 
