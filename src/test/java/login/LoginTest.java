@@ -10,11 +10,6 @@ public class LoginTest extends ScriptBase {
 
     LoginController  login;  // Init LoginController Class Object
 
-    @BeforeTest              // before Run the Test Init() all object from ScriptBase Class
-    public void Init() {
-
-        beforeTest();        // Calling from ScriptBase Class @ beforeTest() all functionality
-    }
 
     @Test (priority = 1)
     public void verifySignInButton() {
