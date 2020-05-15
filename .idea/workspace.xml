@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e43c4bbc-7e62-47c6-8718-d7705cd03179" name="Default Changelist" comment="Add parametarize Xpath">
-      <change afterPath="$PROJECT_DIR$/Regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageController/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Regression.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/base/ScriptBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/login/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageController/loginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageController/loginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/base/ScriptBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/login/LoginTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +60,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bEtBQLHzoPVOznSS4frK4rvsGz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588900872586</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added To XML File,Added a paramaterize,beforeClass and AfterClass">
+      <created>1589248018780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589248018780</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,11 +225,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creat Page of object Model" />
     <MESSAGE value="Create OpenBrowser Session" />
     <MESSAGE value="@FageFactory" />
     <MESSAGE value="Add parametarize Xpath" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add parametarize Xpath" />
+    <MESSAGE value="Added To XML File,Added a paramaterize,beforeClass and AfterClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added To XML File,Added a paramaterize,beforeClass and AfterClass" />
   </component>
   <component name="WindowStateProjectService">
     <state x="433" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589245124524">
@@ -233,22 +242,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="446" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1588658908356" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589247703406">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1589506270803">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589247703406" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589247703404">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589506270803" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1589506270802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589247703404" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589247703403">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589506270802" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1589506270801">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589247703403" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589247703405">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589506270801" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1589506270802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589247703405" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589506270802" />
     <state x="608" y="324" key="MultipleFileMergeDialog" timestamp="1588385133313">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
