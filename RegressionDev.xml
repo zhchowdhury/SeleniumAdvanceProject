@@ -3,6 +3,8 @@
 <suite name="All Test Suite" parallel="tests" >
     <test name="firefoxTest">
         <parameter name="browser" value="firefox"></parameter>
+        <parameter name="environment" value="dev"></parameter>
+
         <classes>
             <class name="login.LoginTest">
                 <methods>
@@ -15,7 +17,9 @@
 
    <test name="chromeTest">
        <parameter name="browser" value="chrome"></parameter>
-    <classes>
+       <parameter name="environment" value="dev"></parameter>
+
+       <classes>
         <class name="login.LoginTest">
             <methods>
                 <include name="verifySignInButton"/>
