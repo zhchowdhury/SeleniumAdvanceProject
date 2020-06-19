@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite" parallel="tests" >
-    <test name="firefoxTest">
+   <!-- <test name="firefoxTest">
         <parameter name="browser" value="firefox"></parameter>
         <parameter name="environment" value="int"></parameter>
 
@@ -13,7 +13,7 @@
                 </methods>
             </class>
         </classes>
-    </test>
+    </test>-->
 
    <test name="chromeTest">
        <parameter name="browser" value="chrome"></parameter>

@@ -14,7 +14,7 @@ public class LoginTest extends ScriptBase {
     @Test (priority = 1)
     public void verifySignInButton() {
         login = new LoginController(driver);
-        login.signInTab();
+        login.signInTab(driver);
 
 
     }
